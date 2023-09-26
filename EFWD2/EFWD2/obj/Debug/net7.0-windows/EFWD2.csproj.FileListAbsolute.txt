@@ -1,0 +1,132 @@
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\EFWD2.exe
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\EFWD2.deps.json
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\EFWD2.runtimeconfig.json
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\EFWD2.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\EFWD2.pdb
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Castle.Core.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Humanizer.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.csproj.AssemblyReference.cache
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.Form1.resources
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.csproj.GenerateResource.cache
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.AssemblyInfoInputs.cache
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.AssemblyInfo.cs
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.csproj.CoreCompileInputs.cache
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.csproj.CopyComplete
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\obj\Debug\net7.0-windows\refint\EFWD2.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.pdb
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.genruntimeconfig.cache
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\obj\Debug\net7.0-windows\ref\EFWD2.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.csproj.AssemblyReference.cache
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.Form1.resources
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.Form2.resources
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.Form3.resources
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.Form4.resources
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.Login.resources
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.Properties.Resources.resources
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.SignUp.resources
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.csproj.GenerateResource.cache
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.AssemblyInfoInputs.cache
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.AssemblyInfo.cs
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.csproj.CoreCompileInputs.cache
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\EFWD2.exe
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\EFWD2.deps.json
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\EFWD2.runtimeconfig.json
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\EFWD2.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\EFWD2.pdb
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Castle.Core.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Guna.UI2.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Humanizer.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\System.Management.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.csproj.CopyComplete
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\refint\EFWD2.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.pdb
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.genruntimeconfig.cache
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\ref\EFWD2.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\LazyProxy.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.Post.resources
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.PostLayout.resources
